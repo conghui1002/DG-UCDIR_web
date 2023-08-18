@@ -1,4 +1,4 @@
-# Nerfies
+# DG-UCDIR
 
 This is the repository that contains source code for the DG-UCDIR website.
 
